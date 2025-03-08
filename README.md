@@ -49,7 +49,7 @@ I'm a passionate **Frontend Developer** specializing in **React.js** and **Next.
 
 ### 📊 GitHub Stats  
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jaraldiTrobes&show_icons=true&theme=radical)  
 
 ---
 
